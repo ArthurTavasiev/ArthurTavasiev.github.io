@@ -1,0 +1,31 @@
+@media (min-width: 320px) {
+    .lead {
+        display: flex;
+        flex-direction: column;
+        color: #FFFFFF;
+        font-family: 'Inter', sans-serif;
+        font-weight: normal;
+        margin-bottom: 64px;
+      }
+}
+
+
+@media(min-width: 768px) {
+    .lead {
+        margin-bottom: 88px;
+      }
+}
+
+
+@media(min-width: 1024px) {
+  .lead {
+    margin: 0 48px 114px 48px;
+  }
+}
+
+
+@media(min-width: 1280px) {
+  .lead {
+    margin: 0 148px 92px 148px;
+  }
+}

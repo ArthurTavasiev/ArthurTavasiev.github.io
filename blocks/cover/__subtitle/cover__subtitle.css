@@ -1,0 +1,31 @@
+@media (min-width: 320px) {
+    .cover__subtitle {
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        margin: 0 16px 33px 16px;
+      }
+}
+
+
+@media(min-width: 768px) {
+    .cover__subtitle {
+        font-size: 18px;
+        line-height: 22px;
+        margin: 0 204px 115px 204px;
+      }
+}
+
+
+@media(min-width: 1024px) {
+  .cover__subtitle {
+    margin: 0 332px 195px 332px;
+  }
+}
+
+
+@media(min-width: 1280px) {
+  .cover__subtitle {
+    margin: 0 412px 245px 412px;
+  }
+}

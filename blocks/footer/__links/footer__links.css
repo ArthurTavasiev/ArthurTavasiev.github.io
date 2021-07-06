@@ -1,0 +1,26 @@
+@media (min-width: 320px) {
+    .footer__links {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+}
+
+
+@media(min-width: 768px) {
+    .footer__links {
+        list-style: none;
+        margin: 0;
+        box-sizing: border-box;
+      }
+}
+
+
+@media(min-width: 1024px) {
+    
+}
+
+
+@media(min-width: 1280px) {
+    
+}

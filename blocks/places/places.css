@@ -1,0 +1,22 @@
+@media (min-width: 320px) {
+    .places {
+        color: #FFFFFF;
+        font-family: 'Inter', sans-serif;
+        font-weight: normal;
+      }
+}
+
+
+@media(min-width: 768px) {
+
+}
+
+
+@media(min-width: 1024px) {
+    
+}
+
+
+@media(min-width: 1280px) {
+    
+}
