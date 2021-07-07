@@ -2,9 +2,6 @@
     .intro {
         display: flex;
         flex-direction: column;
-        color: #FFFFFF;
-        font-family: 'Inter', sans-serif;
-        font-weight: normal;
         margin: 0 16px 64px 16px;
       }
 }
@@ -26,6 +23,6 @@
 
 @media(min-width: 1280px) {
   .intro {
-    margin: 0 385px 92px 148px;
+    margin: 0 442px 92px 148px;
   }
 }

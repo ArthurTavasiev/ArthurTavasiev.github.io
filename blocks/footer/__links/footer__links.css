@@ -9,8 +9,6 @@
 
 @media(min-width: 768px) {
     .footer__links {
-        list-style: none;
-        margin: 0;
         box-sizing: border-box;
       }
 }

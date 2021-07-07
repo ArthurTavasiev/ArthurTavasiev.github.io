@@ -1,10 +1,10 @@
 @media (min-width: 320px) {
     .lead__title {
-        font-weight: 900;
         font-size: 40px;
         line-height: 44px;
         text-align: center;
         margin: 0 16px 16px 16px;
+        font-family: Inter-Black;
       }
 }
 
