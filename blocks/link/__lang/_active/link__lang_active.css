@@ -1,6 +1,6 @@
 @media (min-width: 320px) {
-  .footer__link {
-      margin: 0 0 32px 0;
+  .link__lang_active {
+      text-decoration: underline;
     }
 }
 

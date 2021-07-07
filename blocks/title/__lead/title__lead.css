@@ -1,0 +1,31 @@
+@media (min-width: 320px) {
+  .title__lead {
+      font-size: 40px;
+      line-height: 44px;
+      text-align: center;
+      margin: 0 16px 16px 16px;
+    }
+}
+
+
+@media(min-width: 768px) {
+  .title__lead {
+      font-size: 96px;
+      line-height: 100px;
+      margin: 0 24px 32px 24px;
+    }
+}
+
+
+@media(min-width: 1024px) {
+.title__lead {
+  margin: 0 104px 32px 104px;
+}
+}
+
+
+@media(min-width: 1280px) {
+.title__lead {
+  margin: 0 132px 32px 132px;
+}
+}

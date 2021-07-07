@@ -1,6 +1,6 @@
 @media (min-width: 320px) {
-  .footer__link {
-      margin: 0 0 32px 0;
+  .subtitle {
+      text-align: center;
     }
 }
 
@@ -11,10 +11,10 @@
 
 
 @media(min-width: 1024px) {
-  
+
 }
 
 
 @media(min-width: 1280px) {
-  
+
 }

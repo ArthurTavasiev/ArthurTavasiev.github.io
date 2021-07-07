@@ -1,20 +1,21 @@
 @media (min-width: 320px) {
-  .footer__link {
-      margin: 0 0 32px 0;
-    }
+  
 }
 
 
 @media(min-width: 768px) {
-
+    .list__footer {
+      display: flex;
+      box-sizing: border-box;
+      }
 }
 
 
 @media(min-width: 1024px) {
-  
+    
 }
 
 
 @media(min-width: 1280px) {
-  
+    
 }

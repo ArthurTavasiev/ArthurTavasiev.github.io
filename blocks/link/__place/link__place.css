@@ -1,0 +1,29 @@
+@media (min-width: 320px) {
+  .link__place {
+      font-size: 18px;
+      line-height: 22px;
+      margin: 0;
+      text-decoration: underline;
+      transition: .4s;
+    }
+
+    .link__place:hover {
+      opacity: .3;
+      background-color: #2A2C2F;
+    }
+}
+
+
+@media(min-width: 768px) {
+  
+}
+
+
+@media(min-width: 1024px) {
+  
+}
+
+
+@media(min-width: 1280px) {
+  
+}

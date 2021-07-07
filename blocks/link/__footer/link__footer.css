@@ -1,0 +1,30 @@
+@media (min-width: 320px) {
+  .link__footer {
+      font-size: 24px;
+      line-height: 24px;
+      transition: .4s;
+    }
+    .link__footer:hover {
+      opacity: .3;
+      background-color: #2A2C2F;
+    }
+}
+
+
+@media(min-width: 768px) {
+  .link__footer {
+      font-size: 16px;
+      line-height: 18px;
+      padding: 0 18px 0 0;
+    }
+}
+
+
+@media(min-width: 1024px) {
+  
+}
+
+
+@media(min-width: 1280px) {
+  
+}

@@ -1,6 +1,8 @@
 @media (min-width: 320px) {
-  .footer__link {
-      margin: 0 0 32px 0;
+  .list__intro {
+      font-size: 12px;
+      line-height: 18px;
+      font-family: Inter-Bold;
     }
 }
 
