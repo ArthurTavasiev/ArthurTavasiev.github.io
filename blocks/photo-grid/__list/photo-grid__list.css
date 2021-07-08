@@ -1,0 +1,31 @@
+@media (min-width: 320px) {
+  .photo-grid__list {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-gap: 12px;
+    }
+}
+
+
+@media(min-width: 768px) {
+  .photo-grid__list {
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 16px;
+    }
+}
+
+
+@media(min-width: 1024px) {
+  .photo-grid__list {
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 14px;
+    }
+}
+
+
+@media(min-width: 1280px) {
+  .photo-grid__list {
+       grid-template-columns: repeat(4, 1fr);
+       grid-gap: 16px;
+}
+}
