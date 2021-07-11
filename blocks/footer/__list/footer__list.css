@@ -4,10 +4,10 @@
 
 
 @media(min-width: 768px) {
-    .footer__list {
-      display: flex;
-      box-sizing: border-box;
-      }
+  .footer__list {
+    display: flex;
+    box-sizing: border-box;
+  }
 }
 
 

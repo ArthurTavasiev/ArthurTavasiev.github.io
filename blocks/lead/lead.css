@@ -1,16 +1,16 @@
 @media (min-width: 320px) {
-    .lead {
-        display: flex;
-        flex-direction: column;
-        margin-bottom: 64px;
-      }
+  .lead {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 64px;
+  }
 }
 
 
 @media(min-width: 768px) {
-    .lead {
-        margin-bottom: 88px;
-      }
+  .lead {
+    margin-bottom: 88px;
+  }
 }
 
 

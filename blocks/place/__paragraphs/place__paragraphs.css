@@ -1,14 +1,14 @@
 @media (min-width: 320px) {
-    .place__paragraphs {
-        padding: 0 16px 25px 16px;
-      }
+  .place__paragraphs {
+    padding: 0 16px 25px 16px;
+  }
 }
 
 
 @media(min-width: 768px) {
-    .place__paragraphs {
-        padding: 0;
-      }
+  .place__paragraphs {
+    padding: 0;
+  }
 }
 
 

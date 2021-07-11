@@ -1,14 +1,14 @@
 @media (min-width: 320px) {
   .place__string {
     margin: 0 0 32px 0;
-    }
+  }
 }
 
 
 @media(min-width: 768px) {
   .place__string {
     margin: 0 0 48px 0;
-    }
+  }
 }
 
 
