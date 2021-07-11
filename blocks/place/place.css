@@ -1,18 +1,30 @@
 @media (min-width: 320px) {
-  
+  .place {
+    max-width: 320px;
+    width: 100%;
+    margin: 0 auto;
+  } 
 }
 
 
 @media(min-width: 768px) {
-
+  .place {
+    max-width: 720px;
+    margin: 0 auto 90px;
+  }
 }
 
 
 @media(min-width: 1024px) {
-    
+  .place {
+    max-width: 928px;
+    margin: 0 auto 92px;
+  }   
 }
 
 
 @media(min-width: 1280px) {
-    
+  .place {
+    max-width: 984px;
+  }
 }

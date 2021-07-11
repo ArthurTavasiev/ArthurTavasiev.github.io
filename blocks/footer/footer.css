@@ -1,6 +1,8 @@
 @media (min-width: 320px) {
   .footer {
-    padding: 0 16px;
+    max-width: 288px;
+    width: 100%;
+    margin: 0 auto 24px;
   }
 }
 
@@ -8,19 +10,24 @@
 @media(min-width: 768px) {
   .footer {
     display: flex;
+    position: relative;
     justify-content: space-between;
-    padding: 0 24px 24px 24px;
+    max-width: 720px;
+    margin: 0 auto 24px;
   }
 }
 
 
 @media(min-width: 1024px) {
   .footer {
-    padding: 0 48px 24px 48px;
+    max-width: 928px;
+    margin: 0 auto 24px;
   }
 }
 
 
 @media(min-width: 1280px) {
-    
+  .footer {
+    max-width: 1184px;
+  }
 }

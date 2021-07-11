@@ -1,27 +1,30 @@
 @media (min-width: 320px) {
   .photo-grid {
-    margin: 0 0 64px;
-    padding: 0 16px;
+    max-width: 288px;
+    margin: 0 auto 64px;
   }
 }
 
 
 @media(min-width: 768px) {
   .photo-grid {
-    margin: 0 0 88px;
-    padding: 0 24px;
+    max-width: 720px;
+    margin: 0 auto 88px;
   }
 }
 
 
 @media(min-width: 1024px) {
   .photo-grid {
-    padding: 0 48px;
-    margin: 0 0 92px;
+    max-width: 928px;
+    margin: 0 auto 92px;
   }
 }
 
 
 @media(min-width: 1280px) {
-    
+  .photo-grid {
+    max-width: 1184px;
+    margin: 0 auto 92px;
+  }  
 }
