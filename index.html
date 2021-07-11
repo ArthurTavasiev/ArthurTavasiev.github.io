@@ -31,11 +31,11 @@
               «Ладу» и проехала 20 тысяч километров по родной стране. Мы выбрали и описали некоторые интересные места, 
               достойные вашего отпуска.</p>
             <ul class="list intro__list">
-              <li>Часовых поясов 11</li>
-              <li>Объектов природного наследия ЮНЕСКО 12</li>
-              <li>Объектов культурного наследия ЮНЕСКО 16</li>
-              <li>Природных заповедников 105</li>
-              <li>Аэропортов 241</li>
+              <li><span class="intro__list_bold">Часовых поясов</span> 11</li>
+              <li><span class="intro__list_bold">Объектов природного наследия ЮНЕСКО</span> 12</li>
+              <li><span class="intro__list_bold">Объектов культурного наследия ЮНЕСКО</span> 16</li>
+              <li><span class="intro__list_bold">Природных заповедников</span> 105</li>
+              <li><span class="intro__list_bold">Аэропортов</span> 241</li>
             </ul>
           </section>
 
@@ -58,11 +58,11 @@
 
           <section class="place">
             <ul class="list place__list">
-              <li class="place__list_item">
+              <li class="place__list-item">
                 <h2 class="title place__title">Куршская коса</h2>
                 <div class="place__website">
                   <p class="place__url-heading">URL</p>
-                  <p class="place__link_string"><a class="link place__link" href="http://park-kosa.ru">park-kosa.ru</a></p>
+                  <p class="place__string"><a class="link place__link" href="http://park-kosa.ru">park-kosa.ru</a></p>
                 </div>
                 <div>
                   <img class="image place__image" alt="фото каменистого залива, со старыми корнями деревьев в воде." src="./images/place/place-kosa.jpg">
@@ -76,11 +76,11 @@
                       городов. Атмосфера здешних мест исключает суету, окуная в спокойствие природы и запах стального, прохладного моря.</p>   
                 </div>
               </li>
-              <li class="place__list_item">
+              <li class="place__list-item">
                 <h2 class="title place__title">Кольский</h2>
                 <div class="place__website">
                   <p class="place__url-heading">URL</p>
-                  <p class="place__link_string"><a class="link place__link" href="https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy">National Geographic</a></p>
+                  <p class="place__string"><a class="link place__link" href="https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy">National Geographic</a></p>
                 </div>
                 <div>
                   <img class="image place__image" alt="фото морского прибоя на замёрзшем каменистом берегу." src="./images/place/place-kolsky.jpg">
@@ -94,11 +94,11 @@
                     северное сияние начинает сбываться с билетом в Мурманск.</p>
                 </div>   
               </li>
-              <li class="place__list_item">
+              <li class="place__list-item">
                 <h2 class="title place__title">Алтай</h2>
                 <div class="place__website">
                   <p class="place__url-heading">URL</p>
-                  <p class="place__link_string"><a class="link place__link" href="https://www.facebook.com/vera.bashmakova/posts/10156011613718822">Facebook</a></p>
+                  <p class="place__string"><a class="link place__link" href="https://www.facebook.com/vera.bashmakova/posts/10156011613718822">Facebook</a></p>
                 </div>
                 <div>
                   <img class="image place__image" alt="вид с веранды деревянного дома на густой лес и небольшое озеро." src="./images/place/place-altai.jpg">
@@ -112,11 +112,11 @@
                     И знаменитые манулы — тоже обитатели Алтайского края.</p>  
                 </div> 
               </li>
-              <li class="place__list_item">
+              <li class="place__list-item">
                 <h2 class="title place__title">Зимний Байкал</h2>
                 <div class="place__website">
                   <p class="place__url-heading">URL</p>
-                  <p class="place__link_string"><a class="link place__link" href="https://vk.com/baikalmile">https://vk.com/baikalmile</a></p>
+                  <p class="place__string"><a class="link place__link" href="https://vk.com/baikalmile">https://vk.com/baikalmile</a></p>
                 </div>
                 <div>
                   <img class="image place__image" alt="фото поверхности замёзшего озера крупным планом." src="./images/place/place-winter-baikal.jpg">
@@ -129,11 +129,11 @@
                     на льду. В марте 2019 года на фестивале «Байкальская миля» был поставлен мировой рекорд — 197.011 км/ч.</p>  
                 </div> 
               </li>
-              <li class="place__list_item">
+              <li class="place__list-item">
                 <h2 class="title place__title">Карелия</h2>
                 <div class="place__website">
                   <p class="place__url-heading">URL</p>
-                  <p class="place__link_string"><a class="link place__link" href="http://vodlozero.ru">http://vodlozero.ru/</a></p>
+                  <p class="place__string"><a class="link place__link" href="http://vodlozero.ru">http://vodlozero.ru/</a></p>
                 </div>
                 <div>
                   <img class="image place__image" alt="фото широкой реки в густых холмистых лесах." src="./images/place/place-karelia.jpg">
@@ -150,8 +150,13 @@
           </section>
 
           <section class="cover">
-            <h2 class="title cover__title"><a class="link cover__link" href="https://stampsy.com/na-elektrichkakh-do-baikala">До Байкала «на собаках»</a></h2>
+            <a class="link cover__link" href="https://stampsy.com/na-elektrichkakh-do-baikala">
+            <img class="image cover__image" alt="таварняк на закате" src="../russian-travel/images/cover/cover-trains.jpg">
+            <div class="cover__wrap">
+            <h2 class="title cover__title">До Байкала «на собаках»</h2>
             <p class="subtitle cover__subtitle">По мотивам учебной темы о Транссибе — путешествие от столицы до Байкала на электричках.</p>
+            </div>
+            </a>
           </section>
         </main>
 

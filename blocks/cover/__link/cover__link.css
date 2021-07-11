@@ -1,5 +1,21 @@
 @media (min-width: 320px) {
-  .cover__link {
-      font-family: Inter-Black;
-    }
+  /* .cover__link {
+    position: relative;
+    display: block;
+    } */
+}
+
+
+@media(min-width: 768px) {
+    
+}
+
+
+@media(min-width: 1024px) {
+    
+}
+
+
+@media(min-width: 1280px) {
+    
 }

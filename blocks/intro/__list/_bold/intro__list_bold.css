@@ -1,14 +1,12 @@
 @media (min-width: 320px) {
-  .place__link_string {
-    margin: 0 0 32px 0;
-    }
+  .intro__list_bold {
+    font-weight: bold;
+  }
 }
 
 
 @media(min-width: 768px) {
-  .place__link_string {
-    margin: 0 0 48px 0;
-    }
+  
 }
 
 
@@ -18,5 +16,5 @@
 
 
 @media(min-width: 1280px) {
-  
+    
 }

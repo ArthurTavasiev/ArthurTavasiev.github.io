@@ -34,7 +34,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на проектную работу №3 на GitHub Pages](ArthurTavasiev.github.io)
+* [Ссылка на проектную работу №3 на GitHub Pages](https://arthurTavasiev.github.io)
 * * * * * 
 
 Данную работу выполнил студет 28-го потока, Артур Тавасиев.

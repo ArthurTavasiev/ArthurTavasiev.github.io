@@ -4,14 +4,14 @@
 
 
 @media(min-width: 768px) {
-  .place__list_item {
+  .place__list-item {
       display: flex;
       justify-content: space-between;
       flex-wrap: wrap;
       margin-bottom: 73px;
     }
 
-  .place__list_item >:nth-child(1n+1) {
+  .place__list-item >:nth-child(1n+1) {
       width: calc(50% - 14px);
       box-sizing: border-box;
     }
@@ -19,7 +19,7 @@
 
 
 @media(min-width: 1024px) {
-  .place__list_item {
+  .place__list-item {
       margin-bottom: 80px;
   }
 }
