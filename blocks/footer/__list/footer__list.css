@@ -1,21 +1,15 @@
-@media (min-width: 320px) {
-  
-}
-
-
-@media(min-width: 768px) {
+@media(min-width: 320px) {
   .footer__list {
     display: flex;
+    flex-direction: column;
     box-sizing: border-box;
   }
 }
 
-
-@media(min-width: 1024px) {
-    
-}
-
-
-@media(min-width: 1280px) {
-    
+@media(min-width: 768px) {
+  .footer__list {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
 }

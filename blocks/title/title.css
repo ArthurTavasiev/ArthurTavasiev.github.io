@@ -1,21 +1,6 @@
 @media (min-width: 320px) {
   .title {
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-weight: 900;
   }
-}
-
-
-@media(min-width: 768px) {
-  
-}
-
-
-@media(min-width: 1024px) {
-  
-}
-
-
-@media(min-width: 1280px) {
-  
 }

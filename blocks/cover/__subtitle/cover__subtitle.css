@@ -7,21 +7,10 @@
   }
 }
 
-
 @media(min-width: 768px) {
   .cover__subtitle {
     max-width: 360px;
     font-size: 18px;
     line-height: 22px;
   }
-}
-
-
-@media(min-width: 1024px) {
-  
-}
-
-
-@media(min-width: 1280px) {
-  
 }

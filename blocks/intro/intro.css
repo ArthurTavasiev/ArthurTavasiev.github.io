@@ -8,14 +8,12 @@
   }
 }
 
-
 @media(min-width: 768px) {
   .intro {
     max-width: 720px;
     margin: 0 auto 88px;
   }
 }
-
 
 @media(min-width: 1024px) {
   .intro {
@@ -24,10 +22,8 @@
   }
 }
 
-
 @media(min-width: 1280px) {
   .intro {
     max-width: 984px;
-    margin: 0 auto 92px;
   }
 }

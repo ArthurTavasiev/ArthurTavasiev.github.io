@@ -1,0 +1,9 @@
+.cover__link {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: inherit;
+  z-index: 2;
+}

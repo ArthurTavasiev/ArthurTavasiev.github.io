@@ -6,23 +6,7 @@
     text-decoration: underline;
     transition: .4s;
   }
-
   .place__link:hover {
     opacity: .8;
   }
-}
-
-
-@media(min-width: 768px) {
-  
-}
-
-
-@media(min-width: 1024px) {
-  
-}
-
-
-@media(min-width: 1280px) {
-  
 }

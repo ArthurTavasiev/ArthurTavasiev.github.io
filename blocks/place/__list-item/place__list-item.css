@@ -1,8 +1,3 @@
-@media (min-width: 320px) {
-
-}
-
-
 @media(min-width: 768px) {
   .place__list-item {
     display: flex;
@@ -10,45 +5,37 @@
     flex-wrap: wrap;
     margin-bottom: 73px;
   }
-
-  .place__list-item >:nth-child(odd) {
+  .place__list-item>:nth-child(odd) {
     width: calc(50% - 20px);
     box-sizing: border-box;
   }
-
-  .place__list-item >:nth-child(even) {
+  .place__list-item>:nth-child(even) {
     width: calc(50% - 8px);
     box-sizing: border-box;
   }
 }
-
 
 @media(min-width: 1024px) {
   .place__list-item {
     margin-bottom: 80px;
   }
-
-  .place__list-item >:nth-child(odd) {
+  .place__list-item>:nth-child(odd) {
     width: calc(50% - 24px);
     box-sizing: border-box;
   }
-
- .place__list-item >:nth-child(even) {
+  .place__list-item>:nth-child(even) {
     width: calc(50% - 8px);
     box-sizing: border-box;
   }
 }
 
-
 @media(min-width: 1280px) {
-  
-  .place__list-item >:nth-child(odd) {
+  .place__list-item>:nth-child(odd) {
     width: calc(50% - 32px);
     box-sizing: border-box;
   }
-
- .place__list-item >:nth-child(even) {
+  .place__list-item>:nth-child(even) {
     width: calc(50% - 8px);
     box-sizing: border-box;
-  }  
+  }
 }
