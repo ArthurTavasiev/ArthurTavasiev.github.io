@@ -13,6 +13,5 @@
 @media(min-width: 1024px) {
   .intro__text {
     max-width: 690px;
-    max-height: 208px;
   }
 }

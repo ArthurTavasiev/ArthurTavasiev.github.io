@@ -21,21 +21,11 @@
   }
   .place__list-item>:nth-child(odd) {
     width: calc(50% - 24px);
-    box-sizing: border-box;
-  }
-  .place__list-item>:nth-child(even) {
-    width: calc(50% - 8px);
-    box-sizing: border-box;
   }
 }
 
 @media(min-width: 1280px) {
   .place__list-item>:nth-child(odd) {
     width: calc(50% - 32px);
-    box-sizing: border-box;
-  }
-  .place__list-item>:nth-child(even) {
-    width: calc(50% - 8px);
-    box-sizing: border-box;
   }
 }
